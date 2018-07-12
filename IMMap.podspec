@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'IMMap'
-    s.version          = '0.0.10'
+    s.version          = '1.0.5'
     s.summary          = 'Indoor map framework'
     s.homepage         = 'https://github.com/vit1812/IMMap'
     # s.license          = { :type => 'MIT'}
