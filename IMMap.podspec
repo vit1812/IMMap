@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'IMMap'
-    s.version          = '1.0.2'
+    s.version          = '1.0.3'
     s.summary          = 'Indoor map framework'
     
     # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
     s.homepage         = 'https://github.com/vit1812/IMMap'
     # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-    s.license          = { :type => 'MIT', :git => 'https://github.com/vit1812/IMMap/blob/master/LICENSE' }
+    s.license          = { :type => 'MIT'}
     s.author           = { 'Luong Vinh' => 'ltvinh1812@gmail.com' }
     s.source           = { :git => 'https://github.com/vit1812/IMMap.git', :tag => s.version.to_s }
     # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
