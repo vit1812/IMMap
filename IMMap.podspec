@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
     s.homepage         = 'https://github.com/vit1812/IMMap'
     # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-    s.license          = { :type => 'MIT', :file => 'LICENSE' }
+    s.license          = { :type => 'MIT', :file => 'https://github.com/vit1812/IMMap/blob/master/LICENSE' }
     s.author           = { 'Luong Vinh' => 'ltvinh1812@gmail.com' }
     s.source           = { :git => 'https://github.com/vit1812/IMMap.git', :tag => s.version.to_s }
     # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
