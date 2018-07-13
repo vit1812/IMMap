@@ -8,10 +8,10 @@
 
 Pod::Spec.new do |s|
     s.name             = 'IMMap'
-    s.version          = '1.0.8'
+    s.version          = '1.0.9'
     s.summary          = 'Indoor map framework'
     s.homepage         = 'https://github.com/vit1812/IMMap'
-    s.license          = { :type => 'MIT' }
+    s.license          = 'MIT'
     s.author           = { 'Luong Vinh' => 'ltvinh1812@gmail.com' }
     s.source           = { :git => 'https://github.com/vit1812/IMMap.git', :tag => s.version.to_s }
     s.swift_version    = '4.0'
