@@ -1,6 +1,5 @@
 # IMMap
 
-[![CI Status](https://img.shields.io/travis/vit1812/IMMap.svg?style=flat)](https://travis-ci.org/vit1812/IMMap)
 [![Version](https://img.shields.io/cocoapods/v/IMMap.svg?style=flat)](https://cocoapods.org/pods/IMMap)
 [![License](https://img.shields.io/cocoapods/l/IMMap.svg?style=flat)](https://github.com/vit1812/IMMap/blob/master/LICENSE)
 [![Platform](https://img.shields.io/cocoapods/p/IMMap.svg?style=flat)](https://cocoapods.org/pods/IMMap)
