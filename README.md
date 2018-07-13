@@ -26,4 +26,4 @@ VinhLT, vinhlt@where.place
 
 ## License
 
-IMMap is available under the MIT license. See the LICENSE file for more info.
+IMMap is available under the MIT license. See the [LICENSE](https://github.com/vit1812/IMMap/blob/master/LICENSE) file for more info.
