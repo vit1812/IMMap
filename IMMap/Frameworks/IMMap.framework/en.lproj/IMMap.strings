@@ -1,0 +1,123 @@
+
+/* Class = "UITextField"; placeholder = "Input POI Name"; ObjectID = "00Z-jO-BAo"; */
+"00Z-jO-BAo.placeholder" = "Input POI Name";
+
+/* Class = "UITextField"; placeholder = "Input phone number"; ObjectID = "00f-Tt-4df"; */
+"00f-Tt-4df.placeholder" = "Input phone number";
+
+/* Class = "UILabel"; text = "Website:"; ObjectID = "5O3-8x-lmm"; */
+"5O3-8x-lmm.text" = "Website:";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "7g9-E1-CUv"; */
+"7g9-E1-CUv.text" = "From";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "C6w-0V-E1L"; */
+"C6w-0V-E1L.text" = "Phone:";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "CBv-aL-gDA"; */
+"CBv-aL-gDA.text" = "Info";
+
+/* Class = "UILabel"; text = "Locate"; ObjectID = "DRG-Zv-mfr"; */
+"DRG-Zv-mfr.text" = "Locate";
+
+/* Class = "UITextField"; placeholder = "Input address"; ObjectID = "Fkr-QI-Amm"; */
+"Fkr-QI-Amm.placeholder" = "Input address";
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "GOg-eo-ChB"; */
+"GOg-eo-ChB.text" = "To:";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "GaY-ug-FdA"; */
+"GaY-ug-FdA.text" = "Address:";
+
+/* Class = "UIButton"; normalTitle = "Check in"; ObjectID = "HJK-sf-niF"; */
+"HJK-sf-niF.normalTitle" = "Check in";
+
+/* Class = "UILabel"; text = "Close time:"; ObjectID = "LPO-qR-CMf"; */
+"LPO-qR-CMf.text" = "Close time:";
+
+/* Class = "UILabel"; text = "Radius:"; ObjectID = "MaB-9W-Nn1"; */
+"MaB-9W-Nn1.text" = "Radius:";
+
+/* Class = "UITabBarItem"; title = "Exhibitors"; ObjectID = "Nvh-Og-d9H"; */
+"Nvh-Og-d9H.title" = "Exhibitors";
+
+/* Class = "UILabel"; text = "AIRPORT LIST"; ObjectID = "QS2-hW-7jl"; */
+"QS2-hW-7jl.text" = "AIRPORT LIST";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "R34-Sv-HmO"; */
+"R34-Sv-HmO.text" = "Info";
+
+/* Class = "UITextField"; placeholder = "Input close time"; ObjectID = "RCw-zN-QKd"; */
+"RCw-zN-QKd.placeholder" = "Input close time";
+
+/* Class = "UITextField"; placeholder = "Input POI Type"; ObjectID = "Re0-nk-EXL"; */
+"Re0-nk-EXL.placeholder" = "Input POI Type";
+
+/* Class = "UILabel"; text = "View"; ObjectID = "ZeR-5r-EXR"; */
+"ZeR-5r-EXR.text" = "View";
+
+/* Class = "UILabel"; text = "From:"; ObjectID = "aF4-W1-Chi"; */
+"aF4-W1-Chi.text" = "From:";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "aoh-HH-xR0"; */
+"aoh-HH-xR0.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Vietnam"; ObjectID = "b3z-V2-0WN"; */
+"b3z-V2-0WN.normalTitle" = "Vietnam";
+
+/* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
+"cfp-v9-56D.normalTitle" = "International";
+
+/* Class = "UITextField"; placeholder = "Input POI Radius"; ObjectID = "e7j-Zx-oU4"; */
+"e7j-Zx-oU4.placeholder" = "Input POI Radius";
+
+/* Class = "UITextField"; placeholder = "Input website"; ObjectID = "fia-dq-iSk"; */
+"fia-dq-iSk.placeholder" = "Input website";
+
+/* Class = "UILabel"; text = "Load splash screen failed"; ObjectID = "g88-oR-9V4"; */
+"g88-oR-9V4.text" = "Load splash screen failed";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "gbW-qU-Yk2"; */
+"gbW-qU-Yk2.text" = "Bookmark";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "gg0-Nt-gfn"; */
+"gg0-Nt-gfn.text" = "Bookmark";
+
+/* Class = "UILabel"; text = "Open time:"; ObjectID = "glr-lL-dmB"; */
+"glr-lL-dmB.text" = "Open time:";
+
+/* Class = "UIButton"; normalTitle = "Directions to Here"; ObjectID = "h0N-ud-1I4"; */
+"h0N-ud-1I4.normalTitle" = "Directions to Here";
+
+/* Class = "UIButton"; normalTitle = "Scan"; ObjectID = "hFc-IP-m8E"; */
+"hFc-IP-m8E.normalTitle" = "Scan";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "hIw-HR-gNB"; */
+"hIw-HR-gNB.text" = "Name:";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "jMg-JN-NAm"; */
+"jMg-JN-NAm.text" = "To";
+
+/* Class = "UILabel"; text = "View"; ObjectID = "lKD-yy-xsj"; */
+"lKD-yy-xsj.text" = "View";
+
+/* Class = "UIButton"; normalTitle = "Directions from Here"; ObjectID = "ll4-ss-2qe"; */
+"ll4-ss-2qe.normalTitle" = "Directions from Here";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "nI8-Ug-MtE"; */
+"nI8-Ug-MtE.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "pSl-nd-DFn"; */
+"pSl-nd-DFn.text" = "Type:";
+
+/* Class = "UITextField"; placeholder = "Input open time"; ObjectID = "pqE-Rv-Mf5"; */
+"pqE-Rv-Mf5.placeholder" = "Input open time";
+
+/* Class = "UILabel"; text = "Change airport"; ObjectID = "tzb-ks-kVK"; */
+"tzb-ks-kVK.text" = "Change airport";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "wr2-d9-XOP"; */
+"wr2-d9-XOP.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "yF0-nW-mnc"; */
+"yF0-nW-mnc.text" = "Info";
