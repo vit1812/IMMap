@@ -239,6 +239,8 @@ SWIFT_CLASS("_TtC5IMMap17MapViewController")
 
 
 
+
+
 @protocol MKOverlay;
 @class MKOverlayRenderer;
 @protocol MKAnnotation;
@@ -249,8 +251,6 @@ SWIFT_CLASS("_TtC5IMMap17MapViewController")
 - (MKOverlayRenderer * _Nonnull)mapView:(MKMapView * _Nonnull)mapView rendererForOverlay:(id <MKOverlay> _Nonnull)overlay SWIFT_WARN_UNUSED_RESULT;
 - (MKAnnotationView * _Nullable)mapView:(MKMapView * _Nonnull)mapView viewForAnnotation:(id <MKAnnotation> _Nonnull)annotation SWIFT_WARN_UNUSED_RESULT;
 @end
-
-
 
 
 
@@ -268,6 +268,8 @@ SWIFT_PROTOCOL("_TtP5IMMap25MapViewControllerDelegate_")
 - (void)didTouchXButton:(MapViewController * _Nonnull)vc;
 - (void)willShareWithLink:(NSString * _Nonnull)link inViewController:(MapViewController * _Nonnull)vc;
 @end
+
+
 
 
 
