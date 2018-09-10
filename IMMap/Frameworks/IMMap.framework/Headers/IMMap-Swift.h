@@ -231,6 +231,8 @@ SWIFT_CLASS("_TtC5IMMap17MapViewController")
 - (BOOL)tabBarController:(UITabBarController * _Nonnull)tabBarController shouldSelectViewController:(UIViewController * _Nonnull)viewController SWIFT_WARN_UNUSED_RESULT;
 @end
 
+
+
 @class UITableView;
 
 @interface MapViewController (SWIFT_EXTENSION(IMMap)) <UITableViewDelegate>
