@@ -8,13 +8,13 @@
 
 Pod::Spec.new do |s|
     s.name             = 'IMMap'
-    s.version          = '1.2.2'
+    s.version          = '1.3.0'
     s.summary          = 'Indoor map framework'
     s.homepage         = 'https://github.com/vit1812/IMMap'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'Luong Vinh' => 'ltvinh1812@gmail.com' }
     s.source           = { :git => 'https://github.com/vit1812/IMMap.git', :tag => s.version.to_s }
-    s.swift_version    = '4.0'
+    s.swift_version    = '5.0'
     s.ios.deployment_target = '8.0'
     s.vendored_frameworks = 'IMMap/Frameworks/*'
     s.dependency 'KMPlaceholderTextView'
