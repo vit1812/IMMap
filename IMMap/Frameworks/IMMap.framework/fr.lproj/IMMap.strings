@@ -241,3 +241,9 @@
 "WomenFashions" = "Mode des femmes";
 "year" = "an";
 "your location" = "Votre emplacement";
+"Z1Z-T1-RUm.text" = "LA CARTE INTÉRIEURE DE CET AÉROPORT N'EST PAS DISPONIBLE.";
+/* Class = "UIButton"; normalTitle = "Vietnam"; ObjectID = "b3z-V2-0WN"; */
+"b3z-V2-0WN.normalTitle" = "Vietnam";
+
+/* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
+"cfp-v9-56D.normalTitle" = "International";

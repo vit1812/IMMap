@@ -28,3 +28,9 @@
 "RCw-zN-QKd.placeholder" = "Geben Sie die Schließzeit ein";
 "Re0-nk-EXL.placeholder" = "POI-Typ eingeben";
 "tzb-ks-kVK.text" = "Flughafen wechseln";
+"Z1Z-T1-RUm.text" = "INNENKARTE FÜR DIESEN FLUGHAFEN IST NICHT VERFÜGBAR.";
+/* Class = "UIButton"; normalTitle = "Vietnam"; ObjectID = "b3z-V2-0WN"; */
+"b3z-V2-0WN.normalTitle" = "Vietnam";
+
+/* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
+"cfp-v9-56D.normalTitle" = "International";

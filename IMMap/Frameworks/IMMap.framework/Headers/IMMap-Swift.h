@@ -214,6 +214,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) DataManageme
 SWIFT_CLASS("_TtC5IMMap17MapViewController")
 @interface MapViewController : UIViewController
 @property (nonatomic, strong) id <MapViewControllerDelegate> _Nullable delegate;
+@property (nonatomic) BOOL isAlwaysOpenSearchView;
 + (MapViewController * _Nullable)mapViewController SWIFT_WARN_UNUSED_RESULT;
 - (void)viewDidLoad;
 - (void)viewDidAppear:(BOOL)animated;

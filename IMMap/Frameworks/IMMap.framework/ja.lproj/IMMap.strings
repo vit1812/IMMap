@@ -240,3 +240,9 @@
 "WomenFashions" = "女性のファッション";
 "year" = "年";
 "your location" = "あなたの場所";
+"Z1Z-T1-RUm.text" = "この空港の屋内地図はご利用いただけません。";
+/* Class = "UIButton"; normalTitle = "Vietnam"; ObjectID = "b3z-V2-0WN"; */
+"b3z-V2-0WN.normalTitle" = "Vietnam";
+
+/* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
+"cfp-v9-56D.normalTitle" = "国際";

@@ -6,183 +6,135 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ZET0LsPmWWJdWlh4lueY4qD0Jhk=
+		y+G/IzxSNgyAYTWW9zoN+bnUPLQ=
 		</data>
 		<key>Base.lproj/ErrorView.nib</key>
 		<data>
-		XYoMvVzGgJFhMKtc+a418izG7dU=
+		GgLC6lhplN1v/l/rNYuDNAw22Wc=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/Info.plist</key>
 		<data>
-		aFvxjADvs5pxr7Pmbr8Ab3hnRsg=
+		HxqM9LF5NgL0hSGUCcBBkWQORPg=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/JqZ-MM-LVN-view-ViU-g0-AdB.nib/objects-11.0+.nib</key>
 		<data>
-		kvb1H0m/UP4loM56p7TxYWAcwDY=
+		Ecyn8wVV6VnfiGgU7tEcjqvfpbE=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/JqZ-MM-LVN-view-ViU-g0-AdB.nib/runtime.nib</key>
 		<data>
-		a29Ere5Y+EIa24P1G0ddfzhvaps=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.editPOIViewController.nib/objects-11.0+.nib</key>
-		<data>
-		YhcZ/7IzHr6k9usuYxoqsGeVHno=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.editPOIViewController.nib/runtime.nib</key>
-		<data>
-		2pkLqQyBwhYxHSQQiq4zimD59wE=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorInfoViewController.nib/objects-11.0+.nib</key>
-		<data>
-		8WMe/6Wdbxt1htAs6nHucnJR3nY=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorInfoViewController.nib/runtime.nib</key>
-		<data>
-		nWNHRx5TgKDincYHAUysEpBgYgk=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorsViewController.nib/objects-11.0+.nib</key>
-		<data>
-		QnVSPl2pQ8Mt1RuOeAlw76PT5Ho=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorsViewController.nib/runtime.nib</key>
-		<data>
-		Rsfx7uglUjTdc/o24Vjtk0Md49I=
+		turfNSuHsF2RNEPrMs5ga7KzsKA=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.mapViewController.nib/objects-11.0+.nib</key>
 		<data>
-		I+NbZ0vsGR6tEqHASYBV1Q93TGQ=
+		rAhDi9bu4fmrsJY3VJNpGeZGosA=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.mapViewController.nib/runtime.nib</key>
 		<data>
-		s1JciFcUePyZVkk8WMc7mSIPJ+c=
+		vJdmHA8ZH6H7Ofapi4bIseVOIVU=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.poiInfoViewController.nib/objects-11.0+.nib</key>
 		<data>
-		po/S+APhZQ6pJWVBhPOI37hvPMY=
+		DK99Pe4D96amRt5G5w4zVizqlkw=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.poiInfoViewController.nib/runtime.nib</key>
 		<data>
-		im8qs7QYLtj7GnAPRsVgDn/2Alk=
+		7joO6nmfjJ6mOgyIBL58dO1AK70=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.routeViewController.nib/objects-11.0+.nib</key>
 		<data>
-		50Z9ws9Z9vfBD3JejDYGYrweJFM=
+		k8QhH0WdEEGOIvR/UslbgkVbMa8=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.routeViewController.nib/runtime.nib</key>
 		<data>
-		Ln4qaP6eWwU3XZFX0Nsn48BJIWk=
+		YB/Hew8s9wuZP0uLxQz5Fq3Bbbw=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.searchMallViewController.nib/objects-11.0+.nib</key>
 		<data>
-		7cPHUPv56wsK59QRLeGU6blBbMI=
+		rF+QAfOGvJFIwTQyFmOFR8d7qW4=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.searchMallViewController.nib/runtime.nib</key>
 		<data>
-		ASsHlyUEjZyys3v26709Fh1FJag=
+		UElb2ejYR9VECBUEczuNDEzQddc=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueInfoViewController.nib/objects-11.0+.nib</key>
 		<data>
-		DvleZUnFIvsZJ5Z/feHZWAWzrE4=
+		psFYQHED/AfVH3UI8A9OLrCwpTw=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueInfoViewController.nib/runtime.nib</key>
 		<data>
-		zPecdwx6Z634laBNMfzsHR0JEGM=
+		GPbS4VDQLQ5rQL6dYhgEYT4Osnk=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueSplashScreenViewController.nib/objects-11.0+.nib</key>
 		<data>
-		W2Lwebo/UP/+COAeXnRzkyEB4hY=
+		cDDTfJstgA4BsAPZbL0rZCw5bdc=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueSplashScreenViewController.nib/runtime.nib</key>
 		<data>
-		7Kns9G1GBmxds9tEudhzBDI5JN4=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/cVG-RB-rSE-view-coz-SW-NKZ.nib/objects-11.0+.nib</key>
-		<data>
-		tONMtzfYGOb5XENaOdndxTccm4M=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/cVG-RB-rSE-view-coz-SW-NKZ.nib/runtime.nib</key>
-		<data>
-		Qd64lWnESfx8etY1X9TgPkYMNhg=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/dhW-ES-EHc-view-ihe-mj-vbL.nib/objects-11.0+.nib</key>
-		<data>
-		AkRC/ir89YsBvr9iC2aQcBFex8Q=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/dhW-ES-EHc-view-ihe-mj-vbL.nib/runtime.nib</key>
-		<data>
-		9UcGWMTfdKBm2QfIESVKQZwRmgM=
+		85tHWeiqJEXn3WIXsknkqKh8CPQ=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/hm4-Nc-7eY-view-XbG-y4-ND7.nib/objects-11.0+.nib</key>
 		<data>
-		ndeNWNX4QNPbmEi3ijUbFLGXVsM=
+		hHvVsrTJLZC9lzBxvHd1YNltCZ4=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/hm4-Nc-7eY-view-XbG-y4-ND7.nib/runtime.nib</key>
 		<data>
-		TQoDzqeX4snAWnxJ83Du8nu0yDo=
+		H4n7LgOhTC3gqBRnoQsHdQjYLR0=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/sdj-2L-egt-view-zvD-Zg-bvV.nib/objects-11.0+.nib</key>
 		<data>
-		uQF1R8CU6KyON9RNao1ewESuFxk=
+		+L4n6z856IZZsg/l6kYOHPw4XdA=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/sdj-2L-egt-view-zvD-Zg-bvV.nib/runtime.nib</key>
 		<data>
-		EQbDmsrVz7jo4V+nVp5ae73+w4I=
+		Q1nQRGdmOl9f+z/IOkSriNISdNI=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/wgT-Aq-4IM-view-8Te-hG-fPH.nib/objects-11.0+.nib</key>
 		<data>
-		k4UOz3RBr4AwetjgRYNePDss2Sw=
+		rsjizoZo4p3vbJPf5waOlrJGbpU=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/wgT-Aq-4IM-view-8Te-hG-fPH.nib/runtime.nib</key>
 		<data>
-		kvVLSRIgT4YsMfnpFo0gGCeOQZo=
+		oS1ANPNwR+oZtyV5na9UvxrdJ1s=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/wyp-V3-kNl-view-76j-D3-EHk.nib/objects-11.0+.nib</key>
 		<data>
-		UGSgRVUwqVwCeAPW1Sdkzjon7xI=
+		lDjzkiWChd8mfy44W7QH6DwTW7o=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/wyp-V3-kNl-view-76j-D3-EHk.nib/runtime.nib</key>
 		<data>
-		oVrqBtLsfIKGjAOI+HXh/0a3+Rw=
+		x4qHx796Jz7X5K5GCH6qmLculFc=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/x6S-MB-eo2-view-Mcb-LR-jNz.nib/objects-11.0+.nib</key>
 		<data>
-		ftxAzAgPhnogrOll0TiR+HaPTlA=
+		961iuIEJcoOEMDE0d70EL/Lu0aU=
 		</data>
 		<key>Base.lproj/IMMap.storyboardc/x6S-MB-eo2-view-Mcb-LR-jNz.nib/runtime.nib</key>
 		<data>
-		Q/keV/08jzK2+hXDcsmWYYEWhow=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/zad-uV-lak-view-sct-69-iyW.nib/objects-11.0+.nib</key>
-		<data>
-		whOiN24gV1C3DPoXEV3zOTdpmgI=
-		</data>
-		<key>Base.lproj/IMMap.storyboardc/zad-uV-lak-view-sct-69-iyW.nib/runtime.nib</key>
-		<data>
-		/8b+DBuOCNg93BIQ7UoPAj8/XD8=
+		Gi4Xt+3Gn9QDTvs10Lz3vLzYyc4=
 		</data>
 		<key>Base.lproj/Localizable.strings</key>
 		<data>
-		ArwbD6kGr7g42snDpGwRbJPJwog=
+		fc8MuVJuBwZWitFpGdpZ8NQ4M8o=
 		</data>
 		<key>CustomCalloutView.nib</key>
 		<data>
-		OVxGbND4+ePTztLvwmRXD3NVfpE=
+		s6QCfJbr26d4TNFL5dMEpV1hgWs=
 		</data>
 		<key>DroPinAnnotationView.nib</key>
 		<data>
-		1FJ4iUyYleRVZZhgTUv12e/RVy0=
+		ho5X7VYZB24z730/A7afRyb9Vj0=
 		</data>
 		<key>FloorSelectMenuCell.nib</key>
 		<data>
-		U/kYti98y/ETQuw4jHchoUcNyb4=
+		e7CwDepN9iajpH0FBiTBPZmQzEk=
 		</data>
 		<key>FloorSelectMenuView.nib</key>
 		<data>
-		otuqEG449sdFMTV7+yPjo4r6x3A=
+		loneht+AhS+6hbsmz6Z47LO3rg4=
 		</data>
 		<key>Headers/IMMap-Swift.h</key>
 		<data>
-		++5vxVY/WuLGJeZY/objquS6XpQ=
+		HmPoP8FyVGpRfRER0dzjnuvTrXw=
 		</data>
 		<key>IMDB.momd/AtMall 58.mom</key>
 		<data>
@@ -206,11 +158,11 @@
 		</data>
 		<key>Modules/IMMap.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		b12KxLdfJxtCR0PUrMImmmLe7pQ=
+		FynJ8JZ7tIWNuFzjxdU+4Lk40Yw=
 		</data>
 		<key>Modules/IMMap.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		zo2rg+xVqSpnWnKg5bni6568RhQ=
+		ZOyTM8j/prT607+CHc+LnTBQJWI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -229,7 +181,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m3eu7HZo9/XJWBHKEhKlnRa5kqE=
+			1RmiMRz1QS8Ovgyvc4bHKiXKw1M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -238,7 +190,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/7gC6Z9Q2nkjNvYUjOzVE/hCBLY=
+			/1M6tlK+620tUzQiROdfG+huyNA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -256,7 +208,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tFGX/QfItIa+Uzh+baihNurcgLc=
+			MnkxwrR6JbxAf8vGbxtWRWdPttg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -265,7 +217,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PRnnG1VD/88YJwW4VgkBKjDJ7Sc=
+			pi+N4xVTR4Tu0UxrSYyBWPovfWM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -283,7 +235,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vFy2/aTkYknvtiFTRXGfLu9T/LA=
+			evDKrwWH3EsBYPD4unkHr8Mh7dQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yEA6GB0xo3nbG0q5uz2oRYGoW6M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -301,7 +262,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2FvrW8soI7sG1nlT7pK8Kfev6z8=
+			KJ0CRYUD2CXXVA9Ytl7jWA3mwbU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -310,7 +271,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			INJD50M53mLFwOPkcZjYh3iCpYo=
+			5Vj0LsuezqCl6XohUVzSY0wbtIY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -328,7 +289,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T/Ps1/8BQbcoBUw4tLgOdfJIg9o=
+			BBAXnsvDFlmmR8/cgReRY1wkEjA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b1BNXsn+DXIebqttPxj4NXvLrik=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -346,7 +316,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4y3U66IIjpr9c1vODzDgwDyziE4=
+			bzfIZL3CsT/C6txKk47fcMNYJaQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -355,7 +325,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			poAF8/SIMx4pbBhCm7lNTaIxdj4=
+			hp5Z7tWQ0BCRgwHysTHKCa1ytZM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -373,7 +343,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pXSW5A4EBioRWN5bM11RvX0txUQ=
+			kmijt4P+5Xn6phOWuVyRoWBUmtg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -382,7 +352,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			134Y3yF55hICZOAqwk5oO2twnVo=
+			HPuwzJ4GPDGYOxcrH6ejFHY6MxE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -400,7 +370,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hg+f5PHg+ps3QU5zqy85wwzprrE=
+			4GZHsivlFaTHuvE66/csR/kZ7/A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -409,7 +379,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jj95793bZJJvCBAxgdFkX+Mkz+Q=
+			+/XnB3mCJQxXA6bFM/sB6iSoU9w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -427,7 +397,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X60HEBOKQzEYVrxrnlN0/IptcCw=
+			CK6EqzGV5v4tBWiFVhxsXr9ZJlA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -436,7 +406,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D84dANK+sXSSFm95XjCmr4Wd3PE=
+			NRJwDgVtywzQXnwibxKnP9+Xils=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -454,7 +424,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bEGo1fITzNXkOpr+9ncZLruojXY=
+			ci3golrX7TH17w0MIk7zJonIDhU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -463,7 +433,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DoDP+fIxYxxmQwK6wFxa7774Ask=
+			NgFkzE/r2U7aUT/yaK89DZ8yjFw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -481,7 +451,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uSlhbwKE95LPxxQHgSh/avozfjk=
+			4fvPQhHbsTB0JAt80nV8dcxgGRk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -490,7 +460,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sAm0HvE7kP5mE0TqXFWLw1BotCE=
+			xAYjS6GyubVJ0Zc+mqnN9l/YvUE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -502,495 +472,363 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZET0LsPmWWJdWlh4lueY4qD0Jhk=
+			y+G/IzxSNgyAYTWW9zoN+bnUPLQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			vnbLYdk8wBJiD64RUyhNgaLlSU0dxv2+rGskrzJM+3c=
+			Ym6hETtTNzTS+VY9/QpPXgrMV79AEYIjXl0Rbut4FpU=
 			</data>
 		</dict>
 		<key>Base.lproj/ErrorView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XYoMvVzGgJFhMKtc+a418izG7dU=
+			GgLC6lhplN1v/l/rNYuDNAw22Wc=
 			</data>
 			<key>hash2</key>
 			<data>
-			mi8eIvyFiax+T5TTkAyCzth+TIlLvkXJ4i7mCcboOb0=
+			0GeMom7KRe4f2Su7fNER2zIY/6FDFQT1Ha4ZlJwvMxs=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aFvxjADvs5pxr7Pmbr8Ab3hnRsg=
+			HxqM9LF5NgL0hSGUCcBBkWQORPg=
 			</data>
 			<key>hash2</key>
 			<data>
-			uLtD6JWhWVMm179GiA37+Qr7ewGYcm3rURNTn+AUz2A=
+			nF/T+WObeqOmIcfqAgfr2oo/uj20FzZfPoIer8+djIw=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/JqZ-MM-LVN-view-ViU-g0-AdB.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kvb1H0m/UP4loM56p7TxYWAcwDY=
+			Ecyn8wVV6VnfiGgU7tEcjqvfpbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			T4eLwFJG/UOcIi5WY7a3BoMFX9CTy9vFMjCzcupa1M8=
+			bkylVH1aVI99XpPr+fdtTSL6ZngFFFUbzJOy0LZ+dkc=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/JqZ-MM-LVN-view-ViU-g0-AdB.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			a29Ere5Y+EIa24P1G0ddfzhvaps=
+			turfNSuHsF2RNEPrMs5ga7KzsKA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ntkFtsQ/xEEE4TkVYLY/0k67JIwINkzYE1iMIOIVJB4=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.editPOIViewController.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YhcZ/7IzHr6k9usuYxoqsGeVHno=
-			</data>
-			<key>hash2</key>
-			<data>
-			Y4q/f6iHbEdMxSR+V2ET3fsNsC3siVXPlkNMNvNnmeE=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.editPOIViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2pkLqQyBwhYxHSQQiq4zimD59wE=
-			</data>
-			<key>hash2</key>
-			<data>
-			AipauvKMFntlFwKzpj6TbusFB/5Vus9Po6/O2lVgQLM=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorInfoViewController.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8WMe/6Wdbxt1htAs6nHucnJR3nY=
-			</data>
-			<key>hash2</key>
-			<data>
-			7H9woGhIQRvo/QYdZEmszEMg/mhqVzilE14B3dSUMCU=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorInfoViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nWNHRx5TgKDincYHAUysEpBgYgk=
-			</data>
-			<key>hash2</key>
-			<data>
-			r3k3KILr315WrFzhccgCHfbzFBdMBaus9jPWzpSZ1TU=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorsViewController.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			QnVSPl2pQ8Mt1RuOeAlw76PT5Ho=
-			</data>
-			<key>hash2</key>
-			<data>
-			2HtoCSsHWZoyoxUqi8dlT7Z/EHOev9CyPx/VYkOrLvg=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.exhibitorsViewController.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Rsfx7uglUjTdc/o24Vjtk0Md49I=
-			</data>
-			<key>hash2</key>
-			<data>
-			9Qu3exZBQONAZUbUzaZbgG90Zbz54KgZWyAhzc4dSbQ=
+			PxKg5onKNshbhxE8MwkPk2sn54g/XJ3ZX1A7yYDWG8M=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.mapViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I+NbZ0vsGR6tEqHASYBV1Q93TGQ=
+			rAhDi9bu4fmrsJY3VJNpGeZGosA=
 			</data>
 			<key>hash2</key>
 			<data>
-			TkLs7B10UAcMo5EMG6t5v5+/5m0op7MFJuhavouRToE=
+			r/0wn9CgTgraHfajbJTvDowHKMlTy/pk65VUKSaNjTc=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.mapViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s1JciFcUePyZVkk8WMc7mSIPJ+c=
+			vJdmHA8ZH6H7Ofapi4bIseVOIVU=
 			</data>
 			<key>hash2</key>
 			<data>
-			CzsAUW+xKiuve88yg9N0XLXsf9C97wpfUQopJsyC+G8=
+			H5REa1XsO/U3bG5Q3dw6B17OtfFg0zd327K08DDKYUw=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.poiInfoViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			po/S+APhZQ6pJWVBhPOI37hvPMY=
+			DK99Pe4D96amRt5G5w4zVizqlkw=
 			</data>
 			<key>hash2</key>
 			<data>
-			c+6/220pdjUf9AZazBkUvDcsbcS7u6FEpKqgzS1jjQk=
+			nxd6v4nOJ2aIFYw951D1bdeE/jqrrQMcMxj/DVPf77k=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.poiInfoViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			im8qs7QYLtj7GnAPRsVgDn/2Alk=
+			7joO6nmfjJ6mOgyIBL58dO1AK70=
 			</data>
 			<key>hash2</key>
 			<data>
-			RH/zLhQow0NZFkPuoHrmKvPM3bCHDK1A1BwKJJ6HLkU=
+			fIIH7F52F+eqeP94hUUqfFRBWOjc1mjV/aFhSn9IqEk=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.routeViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			50Z9ws9Z9vfBD3JejDYGYrweJFM=
+			k8QhH0WdEEGOIvR/UslbgkVbMa8=
 			</data>
 			<key>hash2</key>
 			<data>
-			JG1uMZyVU66prkVTYXiPp787ZanS89W+T+N3aqrRQoc=
+			WwNfndME3PRdiAWxxWa4kgRnckTenTBQVKm3QK7JC0Q=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.routeViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ln4qaP6eWwU3XZFX0Nsn48BJIWk=
+			YB/Hew8s9wuZP0uLxQz5Fq3Bbbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			HO6T7DHoyxf+ctLcvbOlFKil3MqsXmQHjHq8CW9hcIs=
+			geBVYwEyHJcLRGPeXyXAYbBLgrmdBZQg9q6YAfSQ9Qw=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.searchMallViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7cPHUPv56wsK59QRLeGU6blBbMI=
+			rF+QAfOGvJFIwTQyFmOFR8d7qW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			48BBRxkBqMSjJFiWSf2iQWzBJLnDsgPN5ifiLH6njr4=
+			mJW19VckyFPeNywAYJK/TEJPdmU7ZxWKupqXLhrgfuI=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.searchMallViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ASsHlyUEjZyys3v26709Fh1FJag=
+			UElb2ejYR9VECBUEczuNDEzQddc=
 			</data>
 			<key>hash2</key>
 			<data>
-			zhWr5/tnadL/vC+tspv73da5GOOn5HHQLH945JAzROw=
+			BJWLVLMTQH+F3zFuxaVrP/nV2lrz3Z/2FVya7IL4HuY=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueInfoViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DvleZUnFIvsZJ5Z/feHZWAWzrE4=
+			psFYQHED/AfVH3UI8A9OLrCwpTw=
 			</data>
 			<key>hash2</key>
 			<data>
-			j89rCyXT9apucuyaRTGBj1UIq0Gh56pD35Dpc+1fMOQ=
+			l1xc0CF8CvrRevTtHh28RLopWvta5LNEAubSC27+x10=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueInfoViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zPecdwx6Z634laBNMfzsHR0JEGM=
+			GPbS4VDQLQ5rQL6dYhgEYT4Osnk=
 			</data>
 			<key>hash2</key>
 			<data>
-			k4liWM6XFYoLFZ2b7bpRXADv8MGU+y3WHyFYiGA290o=
+			sVkojqH+44sv+fiZNBDiqUpdpnw3XFEq+WwYCf8q0hI=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueSplashScreenViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W2Lwebo/UP/+COAeXnRzkyEB4hY=
+			cDDTfJstgA4BsAPZbL0rZCw5bdc=
 			</data>
 			<key>hash2</key>
 			<data>
-			/JpewfkkBpFsMRoGWDRpQbBX6wRhqy069yHv7tkEm6Y=
+			sDQqr32LEeHaeF/bh5nvIs5akhUfTFFOWNX6ETxQAno=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/am.storyboard.id.venueSplashScreenViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7Kns9G1GBmxds9tEudhzBDI5JN4=
+			85tHWeiqJEXn3WIXsknkqKh8CPQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			gl0zCSASyjcjO7BZC5aKLE4RifOhlT2hk77VsHPxe3U=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/cVG-RB-rSE-view-coz-SW-NKZ.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tONMtzfYGOb5XENaOdndxTccm4M=
-			</data>
-			<key>hash2</key>
-			<data>
-			qFW0yeJ9gZZLyKWOSb4zJGA8opNCn9ittI8Ab20RvBs=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/cVG-RB-rSE-view-coz-SW-NKZ.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Qd64lWnESfx8etY1X9TgPkYMNhg=
-			</data>
-			<key>hash2</key>
-			<data>
-			7tbpbYBZmsSwG74ykGt/wlWt7vycioVBaEp9Bhh3zbI=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/dhW-ES-EHc-view-ihe-mj-vbL.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			AkRC/ir89YsBvr9iC2aQcBFex8Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			uDuSIwOd+BP66Zq3LkyopyeJibWW5+UZmjUVHK8q+2g=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/dhW-ES-EHc-view-ihe-mj-vbL.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			9UcGWMTfdKBm2QfIESVKQZwRmgM=
-			</data>
-			<key>hash2</key>
-			<data>
-			MGpTfEUJgOnJO5tX2lP7SdkdogueNaj0jiPA0z2BzGM=
+			nRHafc/ShF75e99DIQmBkFLtgUGI1Yas+O7M6KG1scI=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/hm4-Nc-7eY-view-XbG-y4-ND7.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ndeNWNX4QNPbmEi3ijUbFLGXVsM=
+			hHvVsrTJLZC9lzBxvHd1YNltCZ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			AmPokVjxon+JSRTLJVf+nZLP6J5fnJ7QwyrrxATHtq4=
+			2pd24Pcd1XyuwSH9vzHZ7LTGQeQetRiD9zfn1+1PvKM=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/hm4-Nc-7eY-view-XbG-y4-ND7.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TQoDzqeX4snAWnxJ83Du8nu0yDo=
+			H4n7LgOhTC3gqBRnoQsHdQjYLR0=
 			</data>
 			<key>hash2</key>
 			<data>
-			MW+gX95C2HjLSdGAzeQLZqUG2OS63kLAT978K41ymIE=
+			qb5KbjJrWODQPIaGGNzbjCiSyITCcfZlmOrQImnOFE4=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/sdj-2L-egt-view-zvD-Zg-bvV.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uQF1R8CU6KyON9RNao1ewESuFxk=
+			+L4n6z856IZZsg/l6kYOHPw4XdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			U8gPbOoTsX/tAxRlUw8fXtpGkdWM5RDrX+xfxPnjhw0=
+			0sjzNMQPkGZNFHnBszPiZl55A8rKrcNBdHS6H/2jV7w=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/sdj-2L-egt-view-zvD-Zg-bvV.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EQbDmsrVz7jo4V+nVp5ae73+w4I=
+			Q1nQRGdmOl9f+z/IOkSriNISdNI=
 			</data>
 			<key>hash2</key>
 			<data>
-			28a24D0zZeFn4oUuQfRuVDYIJoL7TMwRtimpu9bApfU=
+			19BzIQQU4PSR0/p9+5PS2GdYGyLtINoR1baAZTcaxAU=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/wgT-Aq-4IM-view-8Te-hG-fPH.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k4UOz3RBr4AwetjgRYNePDss2Sw=
+			rsjizoZo4p3vbJPf5waOlrJGbpU=
 			</data>
 			<key>hash2</key>
 			<data>
-			18N+2tOfvlKtEJcmsEcvxdHCrImUIppss+ryvN2SkH4=
+			2f1I4e/EnITcxL36EpsAecgNKvIl/8ODbsF7rS3QJYI=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/wgT-Aq-4IM-view-8Te-hG-fPH.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kvVLSRIgT4YsMfnpFo0gGCeOQZo=
+			oS1ANPNwR+oZtyV5na9UvxrdJ1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			lTt5gXblj80rbHkiX48t+Zeb+ZKLkdLkh0c/3MtM0/c=
+			Qh+QiKJmDk5BvwQoKJSULh3eL0M2r5HDW+KDfmiJGsA=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/wyp-V3-kNl-view-76j-D3-EHk.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UGSgRVUwqVwCeAPW1Sdkzjon7xI=
+			lDjzkiWChd8mfy44W7QH6DwTW7o=
 			</data>
 			<key>hash2</key>
 			<data>
-			DfzyRBmZz4z8gY9NzprovFYaaN7cg8JGarf190gLznM=
+			TZzH+0wt92wRLeK6j39wRhx+9eT1nsLod+WrluYwhHY=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/wyp-V3-kNl-view-76j-D3-EHk.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oVrqBtLsfIKGjAOI+HXh/0a3+Rw=
+			x4qHx796Jz7X5K5GCH6qmLculFc=
 			</data>
 			<key>hash2</key>
 			<data>
-			xFCkot4yBxWrfYPvd6Jid548Qhhqq9R6S0x5ZdSJNCo=
+			wYxO/kZixQtUab0TBp5FqevSq2I6ks590YszVh/FIcA=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/x6S-MB-eo2-view-Mcb-LR-jNz.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ftxAzAgPhnogrOll0TiR+HaPTlA=
+			961iuIEJcoOEMDE0d70EL/Lu0aU=
 			</data>
 			<key>hash2</key>
 			<data>
-			B0EupUxlG8Rzyga+UywySRxnxMwKPZ/J5bCsJpdbI/M=
+			kCUTiyFE3NZB531kxpw9jeXna+Th2L3mO/TQ0c7T6zg=
 			</data>
 		</dict>
 		<key>Base.lproj/IMMap.storyboardc/x6S-MB-eo2-view-Mcb-LR-jNz.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Q/keV/08jzK2+hXDcsmWYYEWhow=
+			Gi4Xt+3Gn9QDTvs10Lz3vLzYyc4=
 			</data>
 			<key>hash2</key>
 			<data>
-			hrWiRUdq+4rlXLA4pxrOcKBB7nAtMgtzzMVu1BhoV6g=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/zad-uV-lak-view-sct-69-iyW.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			whOiN24gV1C3DPoXEV3zOTdpmgI=
-			</data>
-			<key>hash2</key>
-			<data>
-			N0GqfP+6yukC2emfanFKEJMEoJf5gFUQemHOKeVBZIM=
-			</data>
-		</dict>
-		<key>Base.lproj/IMMap.storyboardc/zad-uV-lak-view-sct-69-iyW.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/8b+DBuOCNg93BIQ7UoPAj8/XD8=
-			</data>
-			<key>hash2</key>
-			<data>
-			obdHnB0Ua9RvKqaAv5ZpmwiudS1VXc5W5SgdidSacvk=
+			HjYpCAJg5A/rNabo7syIcoTxJx7xVZAvkpYVyOzS+hA=
 			</data>
 		</dict>
 		<key>Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ArwbD6kGr7g42snDpGwRbJPJwog=
+			fc8MuVJuBwZWitFpGdpZ8NQ4M8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			38HQdqzOnNyNkxCYgM0oWHh2WOMWtWvvP9ZDgKK8gdA=
+			6rI0ByqJeHInqPE3iWZsvKP+fB2TQE0+NkidbDPKUjA=
 			</data>
 		</dict>
 		<key>CustomCalloutView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OVxGbND4+ePTztLvwmRXD3NVfpE=
+			s6QCfJbr26d4TNFL5dMEpV1hgWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Is2W09ph8WM/miDTGBxe7ge70uxI21JWjg7CzQkuTg8=
+			MDt16X3+EejYVkA69TlguRGkH3cUK7Qb+AHZ0DShcJQ=
 			</data>
 		</dict>
 		<key>DroPinAnnotationView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1FJ4iUyYleRVZZhgTUv12e/RVy0=
+			ho5X7VYZB24z730/A7afRyb9Vj0=
 			</data>
 			<key>hash2</key>
 			<data>
-			aZwdDdwKkH3F1e22OGbhzeWVah7bQyUU9W9DThcBQq8=
+			U/wdFaxVkamHyeavO+eyEPrR/TH5Keq3B++7G5uAcJ8=
 			</data>
 		</dict>
 		<key>FloorSelectMenuCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			U/kYti98y/ETQuw4jHchoUcNyb4=
+			e7CwDepN9iajpH0FBiTBPZmQzEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hz/mwyIFQxtRdtVaa03Tn8NQ1v+QtW48sWR9OqRtEQ=
+			gfF/j7NEvn6vgawTNy2vmY6ZH6YYGYgFrnvdN+AEglw=
 			</data>
 		</dict>
 		<key>FloorSelectMenuView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			otuqEG449sdFMTV7+yPjo4r6x3A=
+			loneht+AhS+6hbsmz6Z47LO3rg4=
 			</data>
 			<key>hash2</key>
 			<data>
-			GHOXDG4GetaGv1KQHw5aWPeY1BDqyoVI6oVvNyEUmCs=
+			v+Bu0fbRZEnufk9p4LKIQ+OS82vFNkzXQRUdE9Bv/x0=
 			</data>
 		</dict>
 		<key>Headers/IMMap-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			++5vxVY/WuLGJeZY/objquS6XpQ=
+			HmPoP8FyVGpRfRER0dzjnuvTrXw=
 			</data>
 			<key>hash2</key>
 			<data>
-			K+kRIHSP4SBsGhYH6M83/BgLDgx4ataxYRHTm6IGHPQ=
+			7/8VyS3ewId7QrWqCoCBbmhxTeEatFB6zKpt6nBVJ6I=
 			</data>
 		</dict>
 		<key>IMDB.momd/AtMall 58.mom</key>
@@ -1041,22 +879,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b12KxLdfJxtCR0PUrMImmmLe7pQ=
+			FynJ8JZ7tIWNuFzjxdU+4Lk40Yw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zmDBznS6jBfnaMoxS+jbB+t3lHayOFjvvCkZszqCFD8=
+			5XLWck8blu1YhkdgVBbnBYKJi+C5i5pwlH0Dg03PskI=
 			</data>
 		</dict>
 		<key>Modules/IMMap.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zo2rg+xVqSpnWnKg5bni6568RhQ=
+			ZOyTM8j/prT607+CHc+LnTBQJWI=
 			</data>
 			<key>hash2</key>
 			<data>
-			2Iy/Syuv1iPqDx0QHs/ZF2W+op5Wvi+Z49nzZ8CJ5yo=
+			hCwiSYTdwsMgreC/LF+C+tvEuw9ab7R57Hd6BoMZq+M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1087,11 +925,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m3eu7HZo9/XJWBHKEhKlnRa5kqE=
+			1RmiMRz1QS8Ovgyvc4bHKiXKw1M=
 			</data>
 			<key>hash2</key>
 			<data>
-			dGG/CLGR8t0ArlIIpPHinekwk/VJ+XDS7hi9fAALSVs=
+			bciiX+d0YgnADPFOhBMU/utDD+1j1lHRoz81SnPFnuY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1100,11 +938,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/7gC6Z9Q2nkjNvYUjOzVE/hCBLY=
+			/1M6tlK+620tUzQiROdfG+huyNA=
 			</data>
 			<key>hash2</key>
 			<data>
-			SPkxAUhDqKlMtgx/Ab9LO61lM/W0d4zB0zfobwKZ2vc=
+			hM0hhecVlqqlqbklmtHiNXSPZ0eOHNeZV4wsEpu8s1g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1126,11 +964,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tFGX/QfItIa+Uzh+baihNurcgLc=
+			MnkxwrR6JbxAf8vGbxtWRWdPttg=
 			</data>
 			<key>hash2</key>
 			<data>
-			SXlGSjzA2TPU3FK+XnIQ5CWBXGop6uFRnN3Qk2D6II8=
+			U+Mxga4su4tx1m+emvh/an3qnznVcxjPycKqI8i5wcw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1139,11 +977,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PRnnG1VD/88YJwW4VgkBKjDJ7Sc=
+			pi+N4xVTR4Tu0UxrSYyBWPovfWM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jr5wmBSvVgRoSY07wKIoZMSyigToWMPjwgmrz/R2as0=
+			1Q8JCOHBvjjutdRlscEi39GJ+3fHdfJYgE3z/jOgqUk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1165,11 +1003,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vFy2/aTkYknvtiFTRXGfLu9T/LA=
+			evDKrwWH3EsBYPD4unkHr8Mh7dQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+nKm50JCKlHOFueQ6bBU5FYi06FVHKbR4tpCDHdi400=
+			6yatrueB0joOHHG2taJgqn6e+TLiOXTzOYWaagFzpUg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yEA6GB0xo3nbG0q5uz2oRYGoW6M=
+			</data>
+			<key>hash2</key>
+			<data>
+			6IwHJ87STLUzy1bZXzqAniwfqNBmx07B7U1jHVum7CI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1191,11 +1042,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2FvrW8soI7sG1nlT7pK8Kfev6z8=
+			KJ0CRYUD2CXXVA9Ytl7jWA3mwbU=
 			</data>
 			<key>hash2</key>
 			<data>
-			0xLtlO3MTkvJiSXTIsQh0FdFwmfs+t0R98xfocuKTTA=
+			XohVr1Lr0o9M+wzSQ9QNv0McSvul0VMZy2k9KxAobHs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1204,11 +1055,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			INJD50M53mLFwOPkcZjYh3iCpYo=
+			5Vj0LsuezqCl6XohUVzSY0wbtIY=
 			</data>
 			<key>hash2</key>
 			<data>
-			nX32kzTSZr0EgQTbRthHlx131NYg/HnJTHj3XsC5fyI=
+			FQC6t/CzPwzezNF4rkSKa+Vfm23kNbuF0L7Oxny0VWI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1230,11 +1081,24 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T/Ps1/8BQbcoBUw4tLgOdfJIg9o=
+			BBAXnsvDFlmmR8/cgReRY1wkEjA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ewMkPTqSdGFWIwSlIcJDWqayHOrBu2VKi/yzveFGV+U=
+			6KdCQaJJhUypGTFEHzfgQ7seiISEmPlL6g4kNtHXh4c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b1BNXsn+DXIebqttPxj4NXvLrik=
+			</data>
+			<key>hash2</key>
+			<data>
+			hQaFn81gotjIvvo1Z4iZ8ZuTNU/jTNjzEcl+Cjtx7V4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1256,11 +1120,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4y3U66IIjpr9c1vODzDgwDyziE4=
+			bzfIZL3CsT/C6txKk47fcMNYJaQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			CZItUmGetgIN2cfj4pnOcIgl3XJj40gxipGQJN42uQU=
+			hLDIX/cZcg0LAd/iEQWgGpp2Rdm/10DOGxM8qg021ps=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1269,11 +1133,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			poAF8/SIMx4pbBhCm7lNTaIxdj4=
+			hp5Z7tWQ0BCRgwHysTHKCa1ytZM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MOk6H0TsFJmyvZiBKEOLCnH63gkB1AKTgfqAo/1DyMA=
+			u0mmefB7g+kvjbbuV4gOH+djmQy6CLJW/d5VQyZYhwM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1295,11 +1159,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pXSW5A4EBioRWN5bM11RvX0txUQ=
+			kmijt4P+5Xn6phOWuVyRoWBUmtg=
 			</data>
 			<key>hash2</key>
 			<data>
-			t+NBUi3EaVd5fbo6unvHvuMnIB4dSld7wpDS3bbUG28=
+			wzDo/mAHf68HRZz1qhcRJIluQ2Pn/Nfx4wTdgGjCQyA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1308,11 +1172,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			134Y3yF55hICZOAqwk5oO2twnVo=
+			HPuwzJ4GPDGYOxcrH6ejFHY6MxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			bBtsEjkRBlaWQA0t+9TYutxZmmMhBMnv/S+avvAIGHM=
+			uQ+0Ccp/CZ4osI+Rd4HC+pxrT1pKcOA/DzVbVmElR+M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1334,11 +1198,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hg+f5PHg+ps3QU5zqy85wwzprrE=
+			4GZHsivlFaTHuvE66/csR/kZ7/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			/pMHD+krxLSEfCYABUPFOP7NrIE3S3CXH/yJjPnzg9o=
+			mZCs6nX077ZKIekIVJ50xx9YjlT/i+QJbNylPVO91aM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1347,11 +1211,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jj95793bZJJvCBAxgdFkX+Mkz+Q=
+			+/XnB3mCJQxXA6bFM/sB6iSoU9w=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZeyA5pREx1/dpYC2HmCGSbsf47ihAi9u9flEoJjvv/Q=
+			0HuvfidDjwDv9yX0spj1FJPsqSAlS/yeJdUCUG/YpkA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1373,11 +1237,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X60HEBOKQzEYVrxrnlN0/IptcCw=
+			CK6EqzGV5v4tBWiFVhxsXr9ZJlA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ER9qFPOjA5KdA0r2oMiTd6QAwSOIgzvcr2sjVIjeYr0=
+			IY6llAqB1CS3OTFt8uzEsKPt3BTLE2YWzPSfQG52ZF0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1386,11 +1250,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D84dANK+sXSSFm95XjCmr4Wd3PE=
+			NRJwDgVtywzQXnwibxKnP9+Xils=
 			</data>
 			<key>hash2</key>
 			<data>
-			I9snh1Qa6j2BpQCuWvJSzKe/kqu29t21BHnGVjPMGpI=
+			ln6VQKu9776avr6qjn3ag4wsoPyMnVgaSCxbwup2j4w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1412,11 +1276,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bEGo1fITzNXkOpr+9ncZLruojXY=
+			ci3golrX7TH17w0MIk7zJonIDhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			gp9LwOxBFnZSM/KT4YzEKZXdgz82eth9CkYYHEHmtr8=
+			7g+yLkbncxRirgulT3wI+VLTiYo1gizZx3sZPGKrR34=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1425,11 +1289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DoDP+fIxYxxmQwK6wFxa7774Ask=
+			NgFkzE/r2U7aUT/yaK89DZ8yjFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			CC2dx2aVylFwJ/A2lVJqx4RYnWVcnMkTQVJJthDIZhc=
+			ASA4OCvhU/pKEYJNp1XS7rN/s9f30M1QsjEsxo5HFRE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1451,11 +1315,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uSlhbwKE95LPxxQHgSh/avozfjk=
+			4fvPQhHbsTB0JAt80nV8dcxgGRk=
 			</data>
 			<key>hash2</key>
 			<data>
-			HWg3N66Z8NuKoDOMQQYRHQuME3UaNE30+4H1/JFde0c=
+			QJwBG2F1kIxZvLidKtDRJD2Ot5oRiQKQiSYiKrcQUzc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1464,11 +1328,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sAm0HvE7kP5mE0TqXFWLw1BotCE=
+			xAYjS6GyubVJ0Zc+mqnN9l/YvUE=
 			</data>
 			<key>hash2</key>
 			<data>
-			er0SXaqUgH8ZuIM2OOvC6cQkfqIeVoORcGhujdmeWxo=
+			4BeiwJRL4emGXaJ9N9/z5qQnokJgDASSDWd7gjKOqXU=
 			</data>
 			<key>optional</key>
 			<true/>

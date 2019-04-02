@@ -121,3 +121,11 @@
 
 /* Class = "UILabel"; text = "Info"; ObjectID = "yF0-nW-mnc"; */
 "yF0-nW-mnc.text" = "Thông tin";
+
+/* Class = "UILabel"; text = "INDOOR MAP FOR THIS AIRPORT ISN'T AVAILABLE."; ObjectID = "Z1Z-T1-RUm"; */
+"Z1Z-T1-RUm.text" = "BẢN ĐỒ NÀY CHƯA ĐƯỢC HỖ TRỢ.";
+/* Class = "UIButton"; normalTitle = "Vietnam"; ObjectID = "b3z-V2-0WN"; */
+"b3z-V2-0WN.normalTitle" = "Vietnam";
+
+/* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
+"cfp-v9-56D.normalTitle" = "Quốc tế";

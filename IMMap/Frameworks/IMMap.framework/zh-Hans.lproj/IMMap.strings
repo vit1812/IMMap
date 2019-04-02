@@ -240,3 +240,9 @@
 "WomenFashions" ="女性时尚";
 "year" ="年";
 "your location" ="你的地点";
+"Z1Z-T1-RUm.text" = "这个机场的室内地图不可用。";
+/* Class = "UIButton"; normalTitle = "Vietnam"; ObjectID = "b3z-V2-0WN"; */
+"b3z-V2-0WN.normalTitle" = "Vietnam";
+
+/* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
+"cfp-v9-56D.normalTitle" = "国际";

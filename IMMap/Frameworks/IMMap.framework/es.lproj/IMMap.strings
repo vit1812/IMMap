@@ -50,3 +50,9 @@
 /* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "wr2-d9-XOP"; */
 "wr2-d9-XOP.normalTitle" = "Cancelar";
 "Z1Z-T1-RUm.text" = "EL MAPA INTERIOR DE ESTE AEROPUERTO NO ESTÁ DISPONIBLE.";
+
+/* Class = "UIButton"; normalTitle = "Vietnam"; ObjectID = "b3z-V2-0WN"; */
+"b3z-V2-0WN.normalTitle" = "Vietnam";
+
+/* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
+"cfp-v9-56D.normalTitle" = "Internacional";
