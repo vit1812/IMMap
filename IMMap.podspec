@@ -8,19 +8,17 @@
 
 Pod::Spec.new do |s|
     s.name             = 'IMMap'
-    s.version          = '1.4'
+    s.version          = '2.0'
     s.summary          = 'Indoor map framework'
     s.homepage         = 'https://github.com/vit1812/IMMap'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'Luong Vinh' => 'ltvinh1812@gmail.com' }
     s.source           = { :git => 'https://github.com/vit1812/IMMap.git', :tag => s.version.to_s }
     s.swift_version    = '5.0'
-    s.ios.deployment_target = '8.0'
+    s.ios.deployment_target = '9.0'
     s.vendored_frameworks = 'IMMap/Frameworks/*'
-    s.dependency 'KMPlaceholderTextView'
     s.dependency 'MBProgressHUD'
-    s.dependency 'TMCache'
-    s.dependency 'Toast'
+    s.dependency 'PINCache'
     s.dependency 'SwiftyJSON'
     s.dependency 'Kingfisher'
     s.dependency 'RxCocoa'
@@ -30,5 +28,10 @@ Pod::Spec.new do |s|
     s.dependency 'DACircularProgress'
     s.dependency 'BZipCompression'
     s.dependency 'Light-Untar'
+    s.dependency 'SwiftEntryKit'
+    s.dependency 'Alamofire'
+    s.dependency 'AlamofireImage'
+    s.dependency 'R.swift'
+    s.dependency 'SwiftSoup'
 end
 

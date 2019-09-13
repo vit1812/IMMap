@@ -34,3 +34,13 @@
 
 /* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
 "cfp-v9-56D.normalTitle" = "International";
+
+// route map
+"FbX-vc-WZ4.placeholder" = "From";
+"cBJ-oG-Ohc.placeholder" = "To";
+"Gu6-yz-Qbd.normalTitle" = "Search route";
+"PK8-R8-nuu.normalTitle" = "Flight schedule";
+"ALY-mZ-Tfa.normalTitle" = "Book a Flight";
+"NlC-vL-utX.text" = "SELECT REGION AND CITY";
+"1hk-ot-aiC.text" = "Flight Network";
+

@@ -26,7 +26,7 @@
 /* Class = "UILabel"; text = "Load splash screen failed"; ObjectID = "g88-oR-9V4"; */
 "g88-oR-9V4.text" = "Carica schermata iniziale non riuscita";
 
-/* Class = "UIButton"; normalTitle = "Directions to Here"; ObjectID = "h0N-ud-1I4"; */
+/* Class = "UIButton"; normalTitle = "Direction to Here"; ObjectID = "h0N-ud-1I4"; */
 "h0N-ud-1I4.normalTitle" = "Indicazioni per Qui";
 
 /* Class = "UILabel"; text = "InMapz"; ObjectID = "iDO-oh-Lcf"; */
@@ -38,11 +38,11 @@
 /* Class = "UILabel"; text = "View"; ObjectID = "lKD-yy-xsj"; */
 "lKD-yy-xsj.text" = "Vista";
 
-/* Class = "UIButton"; normalTitle = "Directions from Here"; ObjectID = "ll4-ss-2qe"; */
+/* Class = "UIButton"; normalTitle = "Direction from Here"; ObjectID = "ll4-ss-2qe"; */
 "ll4-ss-2qe.normalTitle" = "Indicazioni da qui";
 
-/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "nI8-Ug-MtE"; */
-"nI8-Ug-MtE.normalTitle" = "Ok";
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "nI8-Ug-MtE"; */
+"nI8-Ug-MtE.normalTitle" = "OK";
 
 /* Class = "UILabel"; text = "Change airport"; ObjectID = "tzb-ks-kVK"; */
 "tzb-ks-kVK.text" = "Cambia aeroporto";
@@ -56,3 +56,11 @@
 
 /* Class = "UIButton"; normalTitle = "International"; ObjectID = "cfp-v9-56D"; */
 "cfp-v9-56D.normalTitle" = "Internazionale";
+// route map
+"FbX-vc-WZ4.placeholder" = "From";
+"cBJ-oG-Ohc.placeholder" = "To";
+"Gu6-yz-Qbd.normalTitle" = "Search route";
+"PK8-R8-nuu.normalTitle" = "Flight schedule";
+"ALY-mZ-Tfa.normalTitle" = "Book a Flight";
+"NlC-vL-utX.text" = "SELECT REGION AND CITY";
+"1hk-ot-aiC.text" = "Flight Network";
